@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/octopus-mark.svg" width="96" height="96" alt="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/octopus-logo-dark.png">
+    <img src="./assets/octopus-logo-light.png" width="400" alt="">
+  </picture>
 </p>
 
 <h1 align="center">Octopus Software LLC</h1>
